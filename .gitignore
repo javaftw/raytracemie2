@@ -1,10 +1,12 @@
-nbproject/
+#Folders
+target/
+nbproject/private/
 build/
 nbbuild/
 dist/
 nbdist/
+
+#Files
 *.class
 *.png
 *.mp4
-
-target/
